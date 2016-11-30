@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Hurrayh!</h2>
         </div>
         <p className="App-intro">
-          From local -> GitHub -> Travis -> Heroku Pipeline.. Change!!!!
+          From local -> GitHub -> Travis -> DEMO DEMO
         </p>
       </div>
     );
